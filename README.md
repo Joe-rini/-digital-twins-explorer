@@ -4,7 +4,7 @@ Interactive walkthrough of Peng, Brucks, Gui et al., *Digital twins are funhouse
 systematic distortions*, Science Advances 12(36), eaeh8260, 2 September 2026.
 https://www.science.org/doi/10.1126/sciadv.aeh8260
 
-**Live page:** https://USERNAME.github.io/REPO/
+**Live page:** [https://USERNAME.github.io/REPO/](https://joe-rini.github.io/-digital-twins-explorer/)
 
 Shows the mechanics of the study using the real artefacts: the survey participants took, the prompt
 the models received, and every model answer beside the human one — followed through one participant's
