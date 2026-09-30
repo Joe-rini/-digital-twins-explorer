@@ -1,4 +1,4 @@
-# Digital twins are funhouse mirrors — the machinery
+# Interactive Data Explorer: Digital twins are funhouse mirrors — the machinery
 
 Interactive walkthrough of Peng, Brucks, Gui et al., *Digital twins are funhouse mirrors: five
 systematic distortions*, Science Advances 12(36), eaeh8260, 2 September 2026.
